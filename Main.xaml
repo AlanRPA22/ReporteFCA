@@ -149,11 +149,11 @@
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
-        <av:Point x:Key="ShapeLocation">370,52.400000000000006</av:Point>
+        <av:Point x:Key="ShapeLocation">360,12.399999999999999</av:Point>
         <av:Size x:Key="ShapeSize">60,75.2</av:Size>
         <x:Double x:Key="Width">830</x:Double>
         <x:Double x:Key="Height">951.2</x:Double>
-        <av:PointCollection x:Key="ConnectorLocation">370,90 340,90 340,70 210,70</av:PointCollection>
+        <av:PointCollection x:Key="ConnectorLocation">360,50 200,50</av:PointCollection>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
     <Flowchart.StartNode>
@@ -427,7 +427,7 @@
                     <scg:Dictionary x:TypeArguments="x:String, x:Object">
                       <av:Point x:Key="ShapeLocation">280,573.6</av:Point>
                       <av:Size x:Key="ShapeSize">200,52.8</av:Size>
-                      <av:PointCollection x:Key="ConnectorLocation">480,600 570,600</av:PointCollection>
+                      <av:PointCollection x:Key="ConnectorLocation">480,600 560,600</av:PointCollection>
                     </scg:Dictionary>
                   </sap:WorkflowViewStateService.ViewState>
                   <Delay Duration="00:00:03" sap:VirtualizedContainerService.HintSize="200,52.8" sap2010:WorkflowViewState.IdRef="Delay_20" />
@@ -435,9 +435,9 @@
                     <FlowStep x:Name="__ReferenceID1">
                       <sap:WorkflowViewStateService.ViewState>
                         <scg:Dictionary x:TypeArguments="x:String, x:Object">
-                          <av:Point x:Key="ShapeLocation">570,558.4</av:Point>
+                          <av:Point x:Key="ShapeLocation">560,558.4</av:Point>
                           <av:Size x:Key="ShapeSize">200,83.2</av:Size>
-                          <av:PointCollection x:Key="ConnectorLocation">670,558.4 670,471.59999999999997</av:PointCollection>
+                          <av:PointCollection x:Key="ConnectorLocation">660,558.4 660,471.59999999999997</av:PointCollection>
                         </scg:Dictionary>
                       </sap:WorkflowViewStateService.ViewState>
                       <Sequence DisplayName="NISSAN-TAGLE" sap:VirtualizedContainerService.HintSize="200,83.2" sap2010:WorkflowViewState.IdRef="Sequence_41">
@@ -538,9 +538,9 @@
                         <FlowStep x:Name="__ReferenceID5">
                           <sap:WorkflowViewStateService.ViewState>
                             <scg:Dictionary x:TypeArguments="x:String, x:Object">
-                              <av:Point x:Key="ShapeLocation">570,388.4</av:Point>
+                              <av:Point x:Key="ShapeLocation">560,388.4</av:Point>
                               <av:Size x:Key="ShapeSize">200,83.2</av:Size>
-                              <av:PointCollection x:Key="ConnectorLocation">670,388.4 670,358.4 660,358.4 660,321.6</av:PointCollection>
+                              <av:PointCollection x:Key="ConnectorLocation">660,388.4 660,321.6</av:PointCollection>
                             </scg:Dictionary>
                           </sap:WorkflowViewStateService.ViewState>
                           <Sequence DisplayName="FIAT-RUBIC" sap:VirtualizedContainerService.HintSize="200,83.2" sap2010:WorkflowViewState.IdRef="Sequence_70">
@@ -1142,9 +1142,9 @@
     <FlowStep x:Name="__ReferenceID10">
       <sap:WorkflowViewStateService.ViewState>
         <scg:Dictionary x:TypeArguments="x:String, x:Object">
-          <av:Point x:Key="ShapeLocation">10,28.39999999999999</av:Point>
+          <av:Point x:Key="ShapeLocation">0,8.399999999999999</av:Point>
           <av:Size x:Key="ShapeSize">200,83.2</av:Size>
-          <av:PointCollection x:Key="ConnectorLocation">110,111.6 110,141.6 100,141.6 100,158.4</av:PointCollection>
+          <av:PointCollection x:Key="ConnectorLocation">100,91.6 100,158.4</av:PointCollection>
         </scg:Dictionary>
       </sap:WorkflowViewStateService.ViewState>
       <Sequence DisplayName="BACKUP ARCHIVOS" sap:VirtualizedContainerService.HintSize="200,83.2" sap2010:WorkflowViewState.IdRef="Sequence_84">
