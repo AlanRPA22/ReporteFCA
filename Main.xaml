@@ -869,7 +869,7 @@
           <av:PointCollection x:Key="ConnectorLocation">100,241.60000000000002 100,298.4</av:PointCollection>
         </scg:Dictionary>
       </sap:WorkflowViewStateService.ViewState>
-      <Sequence DisplayName="VW" sap:VirtualizedContainerService.HintSize="200,83.2" sap2010:WorkflowViewState.IdRef="Sequence_81">
+      <Sequence DisplayName="VW" sap:VirtualizedContainerService.HintSize="200,83.2" sap2010:WorkflowViewState.IdRef="Sequence_86">
         <Sequence.Variables>
           <Variable x:TypeArguments="sd:DataTable" Name="DatosVW" />
         </Sequence.Variables>
